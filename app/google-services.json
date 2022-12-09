@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428016196494",
+    "project_id": "designotes-b06ca",
+    "storage_bucket": "designotes-b06ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428016196494:android:de60bfac5ed3d9b4bc22df",
+        "android_client_info": {
+          "package_name": "com.example.designotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428016196494-vouvl16trnmlbdrljhth1huo6bt6qpa5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDqu9hSh3g9_snSfeDvBADLgUgOUC7X8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428016196494-vouvl16trnmlbdrljhth1huo6bt6qpa5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
