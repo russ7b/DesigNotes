@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DesigNotes</string>
+    <string name="dbURL">https://designotes-b06ca-default-rtdb.asia-southeast1.firebasedatabase.app/</string>
 </resources>
